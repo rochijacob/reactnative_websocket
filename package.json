@@ -8,6 +8,7 @@
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
+  "proxy": "http://127.0.0.1:5001",
   "dependencies": {
     "expo": "~49.0.7",
     "expo-status-bar": "~1.6.0",
